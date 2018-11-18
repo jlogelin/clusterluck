@@ -42,7 +42,7 @@
     "lodash": "^4.17.2",
     "lru-cache": "^4.1.1",
     "microtime": "^2.1.2",
-    "node-ipc": "^8.9.3",
+    "node-ipc": "^9.1.0",
     "shortid": "^2.2.8",
     "uuid": "^3.0.1",
     "vorpal": "^1.11.4",
